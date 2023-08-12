@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GunRunner/savegames/zip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
